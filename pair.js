@@ -62,7 +62,7 @@ router.get('/', async (req, res) => {
 
 
 ♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️
-*_Pair Code Connected by JEEPERS CREEPER-XMD*
+*_Pair Code Connected by T-R-O-U-B-L-E-XMD*
 ______________________________________
 ╔════◇
 ║ *『 APPRECIATED 👍 FOR  SHOWING LOVE』*
@@ -70,10 +70,10 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Owner:* _https://wa.link/3rc9x7
-║❒ *Repo:* _https://github.com/toxiclover-tech/TOXIC-LOVER-MD
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g_
-║❒ *Follow GitHub:*https://github.com/toxiclover-tech
+║❒ *Owner:* _https://wa.me/message/Q4MHUM4UA2F4H1
+║❒ *Repo:* _https://github.com/spartaspiceSMR/T-R-O-U-B-L-E-XMD/tree/main
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VbAyOud7tkjGoK6knn2D
+║❒ *Follow GitHub:*https://github.com/spartaspiceSMR/T-R-O-U-B-L-E-XMD/tree/main
 ╚════════════════════════╝
 _____________________________________
 ♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️♦️
