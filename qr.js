@@ -59,13 +59,13 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_France_King.sendMessage(Qr_Code_By_France_King.user.id, { text: '' + b64data });
 	
 				   let FLASH_MD_TEXT = `
-THANKYOU FOR CHOOSING JEEPERS CREEPERS-XMD 
-🔙💚☯️♡𝐃𝐑𝐈𝐏 𝐅𝐀𝐌𝐈𝐋𝐘  .. 🤼 💫
+THANKYOU FOR CHOOSING T-R-O-U-B-L-E-XMD
+🔙💚☯️♡†💖R🍥Ö💦Ú🔱ß🍷L🥺È  .. 🤼 💫
   ╭━━━━❤━━━━╮
   💥VERY ACTIVE 🙅
       🕊️𝐂𝐥𝐞𝐚𝐧 𝐚𝐥𝐰𝐚𝐲𝐬🍏
   ╰━━━━🥺━━━━╯💚🔙
-❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g_
+❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VbAyOud7tkjGoK6knn2D
 ║ 
 follow our channel to learn how to deploy..
 Repository available at our channel`
